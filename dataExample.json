@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://example.com/images/image1.jpg",
+    "description": "Un paisaje montañoso al atardecer.",
+    "tags": ["naturaleza", "montañas", "atardecer"],
+    "type": "normal"
+  },
+  {
+    "url": "https://example.com/images/image2.jpg",
+    "description": "Un adorable gatito con orejas grandes.",
+    "tags": ["animal", "gato", "adorable", "kawaii"],
+    "type": "kawaii"
+  },
+  {
+    "url": "https://example.com/images/image3.jpg",
+    "description": "Un ramo de flores coloridas en primavera.",
+    "tags": ["flores", "primavera", "naturaleza"],
+    "type": "normal"
+  },
+  {
+    "url": "https://example.com/images/image4.jpg",
+    "description": "Un peluche en forma de conejo con mejillas rosadas.",
+    "tags": ["peluche", "conejo", "kawaii"],
+    "type": "kawaii"
+  }
+]
