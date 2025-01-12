@@ -13,18 +13,6 @@
         "type": "normal"
     },
     {
-        "id": 2,
-        "name": "Image2",
-        "url": "https:\/\/example.com\/images\/image1.jpg",
-        "description": "Dos paisajes monta\u00f1osos al atardecer.",
-        "tags": [
-            "naturaleza",
-            "monta\u00f1as",
-            "atardecer"
-        ],
-        "type": "normal"
-    },
-    {
         "id": 3,
         "name": "Sansan",
         "description": "XD",
