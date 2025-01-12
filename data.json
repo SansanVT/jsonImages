@@ -2,12 +2,12 @@
     {
         "id": 1,
         "name": "Image",
-        "url": "https:\/\/example.com\/images\/image1.jpg",
+        "url": "https:\/\/i.imgur.com\/UU7wyLJ.png",
         "description": "Un paisaje monta\u00f1oso al atardecer.",
         "tags": [
             "naturaleza",
-            " monta\u00f1as",
-            " atardecer"
+            "  monta\u00f1as",
+            "  atardecer"
         ],
         "type": "normal"
     },
