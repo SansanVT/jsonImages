@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "Image",
+        "url": "https://example.com/images/image1.jpg",
+        "description": "Un paisaje montañoso al atardecer.",
+        "tags": ["naturaleza", "montañas", "atardecer"],
+        "type": "normal"
+    },
+    {
+        "id": 2,
+        "name": "Image2",
+        "url": "https://example.com/images/image1.jpg",
+        "description": "Dos paisajes montañosos al atardecer.",
+        "tags": ["naturaleza", "montañas", "atardecer"],
+        "type": "normal"
+    },
+]
