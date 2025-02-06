@@ -1,6 +1,6 @@
 [
     {
-        "id": 2,
+        "id": 1,
         "name": "Meg",
         "url": "https:\/\/i.imgur.com\/QivDP4q.jpeg",
         "description": "XDe",
@@ -10,7 +10,7 @@
         "type": "kawaii"
     },
     {
-        "id": 4,
+        "id": 2,
         "name": "Joy",
         "description": "Otra chica amarrada de fnafhs dibujada por sansan",
         "tags": [
@@ -23,7 +23,7 @@
         "type": "normal"
     },
     {
-        "id": 5,
+        "id": 3,
         "name": "Cami",
         "description": "Una chica de fnafhs amarrada por sansan hace mas de 5 a\u00f1os",
         "tags": [
